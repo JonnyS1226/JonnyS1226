@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CV and AI
 - 🌱 I usually use Python, Java, Golang
-- 😄 Keep learning
+- 😄 CVer. Keep learning
 
 ![JonnyS1226's github stats](https://github-readme-stats.vercel.app/api?username=JonnyS1226&theme=radical) 
 
